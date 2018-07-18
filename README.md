@@ -1,2 +1,0 @@
-# MicroService
-study microservice case
