@@ -1,9 +1,9 @@
 Manifest-Version: 1.0
 Implementation-Title: springcloud-user-service-auth
 Implementation-Version: 0.0.1-SNAPSHOT
-Built-By: admin
+Built-By: Administrator
 Implementation-Vendor-Id: com.study.springcloud
-Build-Jdk: 1.8.0_172
+Build-Jdk: 1.8.0_60
 Implementation-URL: http://projects.spring.io/spring-boot/springcloud-
  user-service-auth/
 Created-By: Maven Integration for Eclipse
